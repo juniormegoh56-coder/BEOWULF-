@@ -1,0 +1,4 @@
+node_modules/
+beowulf_session/
+*.log
+.env
